@@ -1,5 +1,5 @@
 # 👋 Hello World
-![header](https://capsule-render.vercel.app/api?type=rect&color=121212&height=180&section=header&text=KIMJAEMIN&fontSize=80&fontColor=C6A03E&fontAlign=60&desc=KGU&descSize=30&descAlignY=65&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=00569E&height=180&section=header&text=KIMJAEMIN&fontSize=80&fontColor=FFFFFF&fontAlign=60&desc=KGU&descSize=30&descAlignY=65&descAlign=90)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaemini_photo)
 ![Followers](https://img.shields.io/github/followers/kimjjam?style=for-the-badge&color=00569e)
 
