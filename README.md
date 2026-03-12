@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://www.kyonggi.ac.kr/images/kor/sub/ui_color_img01.png" width="300">
-  <br>
-  <font size="7"><b>KIM JAEMIN</b></font><br>
-  <font size="4">KGU Computer Science | Developer</font>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00569E&height=200&section=header&text=KIM%20JAEMIN&fontSize=70&fontColor=ffffff&desc=KYONGGI%20UNIVERSITY&descSize=25&descAlignY=70" width="100%">
 </p>
 <p align="left">
   <a href="https://www.instagram.com/jaemini_photo">
