@@ -1,24 +1,36 @@
-# 잼(kimjjam)의 공간에 오신 것을 환영합니다! 👋
+# 👋 Hello World
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20kimjjam's%20GitHub&fontSize=40)
-
-### 🛠 Tech Stack (사용 기술)
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaemini_photo)
+![Followers](https://img.shields.io/github/followers/kimjjam?style=for-the-badge&color=00569e)
 
 ---
 
-### 📊 GitHub Stats (나의 활동 기록)
+### 📊 Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimjjam&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjjam&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="48%" />
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kimjjam&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="48%" />
+</p>
+<br clear="both" />
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimjjam&theme=tokyonight&hide_border=true&area=true" width="100%">
 </p>
 
 ---
 
-### 💬 Contact
-- 📧 Email : [이메일 주소를 적어주세요]
-- 📝 Blog : [블로그 주소가 있다면 넣어주세요]
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+---
+
+### 👀 Visitors
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjjam&count_bg=%2300569E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
