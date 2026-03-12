@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&backgroundImage=https%3A%2F%2Fwww.kyonggi.ac.kr%2Fimages%2Fkor%2Fsub%2Fui_color_img01.png&height=200&section=header&text=KIMJAEMIN&fontSize=80&fontColor=FFFFFF&fontAlign=60&desc=KGU&descSize=30&descAlignY=70&descAlign=90)
-
+<p align="center">
+  <img src="https://www.kyonggi.ac.kr/images/kor/sub/ui_color_img01.png" width="300">
+  <br>
+  <font size="7"><b>KIM JAEMIN</b></font><br>
+  <font size="4">KGU Computer Science | Developer</font>
+</p>
 <p align="left">
   <a href="https://www.instagram.com/jaemini_photo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
