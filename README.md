@@ -1,12 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=00569E&height=180&section=header&text=KIMJAEMIN&fontSize=80&fontColor=FFFFFF&fontAlign=60&desc=KGU&descSize=30&descAlignY=65&descAlign=90)
 
 <p align="left">
-  <a href="https://www.instagram.com/jaemini_photo">
+  <a href="https://www.instagram.com/본인_아이디">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <img src="https://img.shields.io/github/followers/kimjjam?style=for-the-badge&color=00569e">
 </p>
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/ko/thumb/d/d3/%EA%B2%BD%EA%B8%B0%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg/1200px-%EA%B2%BD%EA%B8%B0%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg.png" width="90" align="left" style="margin-right: 25px; margin-top: 10px;">
+  
+  <font size="6"><b>안녕하세요, 김재민입니다 👋</b></font><br>
+  <font size="4">경기대학교 학생 개발자 </font><br>
+  
+</p>
+<br clear="both">
+
+---
 
 ### 📊 Stats & Languages
 <p align="center">
