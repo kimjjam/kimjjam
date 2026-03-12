@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=00569E&height=180&section=header&text=KIMJAEMIN&fontSize=80&fontColor=FFFFFF&fontAlign=60&desc=KGU&descSize=30&descAlignY=65&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=rect&backgroundImage=https%3A%2F%2Fwww.kyonggi.ac.kr%2Fimages%2Fkor%2Fsub%2Fui_color_img01.png&height=200&section=header&text=KIMJAEMIN&fontSize=80&fontColor=FFFFFF&fontAlign=60&desc=KGU&descSize=30&descAlignY=70&descAlign=90)
 
 <p align="left">
   <a href="https://www.instagram.com/jaemini_photo">
@@ -8,7 +8,6 @@
 </p>
 
 <p align="left">
-  <img src="https://www.kyonggi.ac.kr/images/kor/sub/ui_color_img01.png" width="120" align="left" style="margin-right: 25px;">
   <font size="6"><b>안녕하세요, 김재민입니다 👋</b></font><br>
   <font size="4">경기대학교 학생 개발자 | </font><br>
   
