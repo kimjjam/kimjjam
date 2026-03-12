@@ -7,13 +7,6 @@
   <img src="https://img.shields.io/github/followers/kimjjam?style=for-the-badge&color=00569e">
 </p>
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/ko/thumb/d/d3/%EA%B2%BD%EA%B8%B0%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg/1200px-%EA%B2%BD%EA%B8%B0%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg.png" width="70" align="left" style="margin-right: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00569e&width=500&lines=안녕하세요!+김재민입니다+👋;경기대학교+학생+개발자입니다;TypeScript를+주로+사용합니다;클린+코드를+지향합니다">
-</p>
-<br clear="both">
-
----
 
 ### 📊 Stats & Languages
 <p align="center">
