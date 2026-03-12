@@ -16,8 +16,9 @@
 
 ### 🎧 Favorite Track
 <a href="https://music.youtube.com/search?q=잔나비+사람들은+다+그래+맛있는+걸+먹을+때와+여름의+바닷가에서는">
-  <img src="https://img.shields.io/badge/JANNABI-사람들은_다_그래_맛있는_걸_먹을_때와_여름의_바닷가에서는-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+  <img src="https://img.shields.io/badge/JANNABI-사람들은_다_그래_맛있는_걸_먹을+때와+여름의+바닷가에서는-f1fa8c?style=for-the-badge&logo=youtube-music&logoColor=black">
 </a>
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/readme-assets/wave.gif" width="50px">
 
 ---
 
